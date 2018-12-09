@@ -1,1 +1,1 @@
-My react lib
+My react app
